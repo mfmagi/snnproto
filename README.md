@@ -1,0 +1,2 @@
+# snnproto
+Prototyping repo
